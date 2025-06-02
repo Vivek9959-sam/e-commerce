@@ -9,7 +9,7 @@ function Cart({ cartAllProduct, setCartAllProduct }) {
     );
   };
 
-  //"hello"
+  
 
   const handleDecrement = (id) => {
     setCartAllProduct((prevCart) =>
